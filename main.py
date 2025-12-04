@@ -15,7 +15,7 @@ import pyperclip
 import requests
 
 # ================== VERSION & AUTO-UPDATE ==================
-VERSION = "2.0.3"
+VERSION = "2.0.5"
 
 # Cấu hình GitHub repo để auto-update
 GITHUB_USER = "entervicom-ays2"      # Điền username GitHub, ví dụ: "criggerbrannon-hash"
