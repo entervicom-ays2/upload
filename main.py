@@ -18,8 +18,8 @@ import requests
 VERSION = "2.0.3"
 
 # Cấu hình GitHub repo để auto-update
-GITHUB_USER = ""      # Điền username GitHub, ví dụ: "criggerbrannon-hash"
-GITHUB_REPO = ""      # Điền tên repo, ví dụ: "upload"
+GITHUB_USER = "entervicom-ays2"      # Điền username GitHub, ví dụ: "criggerbrannon-hash"
+GITHUB_REPO = "upload"      # Điền tên repo, ví dụ: "upload"
 GITHUB_BRANCH = "main"
 
 # Files/folders không được ghi đè khi update (giữ nguyên của máy local)
